@@ -2,11 +2,15 @@
 
 I'm excited to see this set of two working groups coming together. Thank you for being patient with (and humoring) us and helping to pull everything together for this on short notice.
 
-For both groups (September 27-28 with a focus on Protected Areas data and October 2-3 with a focus on species data), we will be meeting at the Highland City Club in Boulder, which bills themselves as...
+For the first group (September 27-28 with a focus on Protected Areas data), we will be meeting at the [Highland City Club](https://www.highlandcityclub.com/) in Boulder, which bills themselves as...
 
 "An inspired place where intellectuals, entrepreneurs, artists and leaders gather to share ideas and shape the landscape of tomorrow."
 
-In my view, that's exactly who we are and what we are about doing. We are very excited to be convening these slightly impromptu meetings through the Earth Science Information Partners, where we are part of a developing experiment into how groups like ours come together to synthesize ideas across our various viewpoints and skills to solve problems related to managing and analyzing scientific data. ESIP is helping us organize and set up the meeting and venue, but we are also helping to develop ideas on how to do this sort of thing as part of the ESIP Lab.
+In my view, that's exactly who we are and what we are about doing.
+
+We had to move the second group to the [Impact Hub Boulder](https://impacthubboulder.com/), a slightly different type of collaborative, dynamic space that we're exploring for this type of meetup. Both spaces are close to the vibrant Pearl Street Mall in Boulder.
+
+We are very excited to be convening these slightly impromptu meetings through the Earth Science Information Partners, where we are part of a developing experiment into how groups like ours come together to synthesize ideas across our various viewpoints and skills to solve problems related to managing and analyzing scientific data. ESIP is helping us organize and set up the meeting and venue, but we are also helping to develop ideas on how to do this sort of thing as part of the ESIP Lab.
 
 One of the areas we will be experimenting with for both of these meet ups is how we might go about building a living proceedings of our groups, live as we go. We're leveraging some of the great tools that GitHub offers in this regard and have focused everything on a specific repository. We've called it "[bcb-dm](https://github.com/usgs-bcb/bcb-dm)" because it's short and to the point, we are focusing here on a couple aspects of our Biogeographic Characterization portfolio in the USGS, and we're mostly looking at dynamics of how we do the data management stuff that best supports our analytical work.
 
