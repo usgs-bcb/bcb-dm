@@ -8,7 +8,11 @@ For the first group (September 27-28 with a focus on Protected Areas data), we w
 
 In my view, that's exactly who we are and what we are about doing.
 
+Logistics-wise, the Protected Areas Group will meet from 08:00 to 16:30. A light breakfast of fruit, pastries, yogurt, and coffee will be served at 08:00 both days. Lunch will also be provided. We are putting together an optional group dinner for the first night, September 27 at 18:00. We'll pick a restaurant together that first morning.
+
 We had to move the second group to the [Impact Hub Boulder](https://impacthubboulder.com/), a slightly different type of collaborative, dynamic space that we're exploring for this type of meetup. Both spaces are close to the vibrant Pearl Street Mall in Boulder.
+
+The Species Data Group has a slightly different daily schedule and will meet from 09:00 to 17:00 both days. Breakfast and lunch will be provided. The optional group dinner is scheduled for October 2 at 18:30. We'll pick the restaurant that morning.
 
 We are very excited to be convening these slightly impromptu meetings through the Earth Science Information Partners, where we are part of a developing experiment into how groups like ours come together to synthesize ideas across our various viewpoints and skills to solve problems related to managing and analyzing scientific data. ESIP is helping us organize and set up the meeting and venue, but we are also helping to develop ideas on how to do this sort of thing as part of the ESIP Lab.
 
